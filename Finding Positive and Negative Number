@@ -1,0 +1,24 @@
+EXPERIMENT - 1
+Prateek Sinha
+ENTC-A3
+24070123077
+
+ #include <iostream>
+ using namespace std;  
+ #include <string>  
+ int main() {
+     int number;
+     cout << "Enter a number:" << endl;
+     cin >> number;
+     if (number > 0) {
+         cout << "The number is positive" << endl;
+     } else if (number < 0) {
+         cout << "The number is negative" << endl;
+     } else {  cout << "The number is 0" << endl;
+     }return 0;}
+*/Output:-
+Enter a number:
+4
+
+The number is positive
+*/
