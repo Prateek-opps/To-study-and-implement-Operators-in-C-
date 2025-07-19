@@ -37,7 +37,7 @@ The purpose of this program is to calculate the average of marks obtained in thr
    - D: 60 to 69
    - F: below 60
 4. Display the calculated average and the assigned grade.
-5. 
+  
 Output:-
 
 Enter marks for 3 subjects: 32,65,76
@@ -71,9 +71,7 @@ This program identifies whether a given integer is positive, negative, or zero u
    
 Output:-
 
-Enter a number:
-
-4
+Enter a number:4
 
 The number is positive
 
