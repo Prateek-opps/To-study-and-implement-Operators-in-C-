@@ -18,6 +18,7 @@ This document outlines the theoretical understanding of three beginner-level C++
 
 The purpose of this program is to calculate the average of marks obtained in three subjects and assign a grade based on the calculated average.
 
+
 ### Concepts Covered
 
 - **Input Handling**: Accepts marks for three subjects using input streams.
@@ -36,6 +37,14 @@ The purpose of this program is to calculate the average of marks obtained in thr
    - D: 60 to 69
    - F: below 60
 4. Display the calculated average and the assigned grade.
+5. 
+Output:-
+
+Enter marks for 3 subjects: 32,65,76
+
+Average: 10.6667%
+
+Grade: F
 
 ---
 
@@ -59,6 +68,14 @@ This program identifies whether a given integer is positive, negative, or zero u
    - If less than zero, it is negative.
    - If equal to zero, it is classified as zero.
 3. Display the appropriate classification result.
+   
+Output:-
+
+Enter a number:
+
+4
+
+The number is positive
 
 ---
 
@@ -67,6 +84,14 @@ This program identifies whether a given integer is positive, negative, or zero u
 ### Purpose
 
 This is a repetition of the first program and serves the same objective—to compute the average of three marks and determine the grade. It may be reused for reinforcement or additional practice.
+
+Output:-
+
+Enter x: 54
+
+Enter y: 65
+
+1st quadrant
 
 ---
 
