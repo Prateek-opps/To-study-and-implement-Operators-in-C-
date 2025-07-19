@@ -87,7 +87,7 @@ Output:-
 
 Enter x: 54
 
-Enter y: 65
+Enter y: 64
 
 1st quadrant
 
